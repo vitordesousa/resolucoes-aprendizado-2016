@@ -24,7 +24,9 @@
 -------------------
 
 
-## Ler 240 artigos (0/240)
+## Ler 240 artigos (1/240)
+
+1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 
 
 -------------------
