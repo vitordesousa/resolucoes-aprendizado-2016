@@ -21,14 +21,8 @@
 -------------------
 
 
-## Ler 366 artigos (6/366)
+## Ler 366 artigos (0/240)
 
-1. http://fossbytes.com/ruby-2-3-0-released-with-new-features-and-performance-improvements/
-2. http://chiefofdesign.com.br/guia-tipografia-parte-02/
-3. http://blog.plataformatec.com.br/2014/09/writing-assertive-code-with-elixir/
-4. http://www.businessinsider.com/googles-ranking-system-okr-2014-1
-5. http://elm-lang.org/blog/blazing-fast-html
-6. http://pchiusano.github.io/2014-07-02/css-is-unnecessary.html
 
 -------------------
 
@@ -37,19 +31,7 @@
 
 -------------------
 
-
-## Terminar de escrever meu livro sobre [Redmine](https://www.gitbook.com/book/victorlcampos/curso-redmine/details)(0/1)
-
--------------------
-
-## Ver 24 palestras no youtube (1/24)
-
-1. https://www.youtube.com/watch?v=3VoFq5lng_4
-
--------------------
-
-
-## Gravar 12 vídeos (0/12)
+## Ver 24 palestras no youtube (0/24)
 
 -------------------
 
@@ -59,14 +41,12 @@
 -------------------
 
 
-## Palestrar 2 vezes (0/2)
+## Palestrar 1 vezes (0/1)
 
 -------------------
 
 
-## Contribuir mais com o open source do que em 2015 (#pull requests) (1/27)
-1. https://github.com/lucasmazza/language-elixir/pull/26
-2. https://github.com/h4cc/awesome-elixir/pull/1467
+## Tornar o Bedrock um projeto da comunidade
 
 
 -------------------
