@@ -6,22 +6,25 @@
 -------------------
 
 
-## Ler 3 Livros sobre design (0/3)
+## Ler 2 Livros sobre design (0/2)
 
 -------------------
 
+## Ler 2 Livros sobre UX (0/2)
+
+-------------------
 
 ## Ler 3 Livros sobre business (0/3)
 
 -------------------
 
 
-## Ler 3 Livros sobre desenvolvimento (0/3)
+## Ler 2 Livros sobre desenvolvimento (0/2)
 
 -------------------
 
 
-## Ler 366 artigos (0/240)
+## Ler 240 artigos (0/240)
 
 
 -------------------
