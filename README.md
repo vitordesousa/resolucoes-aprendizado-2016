@@ -24,10 +24,12 @@
 -------------------
 
 
-## Ler 240 artigos (2/240)
+## Ler 240 artigos (4/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
+3. http://www.uxdesign.blog.br/user-experience/ux-por-onde-comecar/
+4. http://chiefofdesign.com.br/guia-tipografia-parte-01/
 
 
 -------------------
@@ -38,6 +40,8 @@
 -------------------
 
 ## Ver 24 palestras no youtube (0/24)
+
+1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 
 -------------------
 
