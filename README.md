@@ -38,7 +38,9 @@
 -------------------
 
 
-## Escrever 12 artigos (0/12)
+## Escrever 12 artigos (1/12)
+
+1. https://medium.com/@cbfranca/metas-de-estudo-para-2016-92caa5e4e6ad#.q9meadsfo
 
 -------------------
 
