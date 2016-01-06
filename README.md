@@ -1,4 +1,4 @@
-# Resoluções de Aprendizado 2016
+# Metas de Aprendizado 2016
 
 
 ## Voltar a estudar inglês (0/1)
