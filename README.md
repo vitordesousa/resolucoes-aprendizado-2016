@@ -33,6 +33,7 @@
 5. https://medium.com/@s_eschweiler/why-angular-2-will-be-big-in-2016-64c3e066f82e#.g2qbijddf
 6. https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.hzdjlg99c
 7. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.1eg1fg3ag
+8. http://rafaell-lycan.com/2015/entendendo-flux/
 
 
 -------------------
