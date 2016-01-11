@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 240 artigos (9/240)
+## Ler 240 artigos (11/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -35,6 +35,8 @@
 7. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.1eg1fg3ag
 8. http://rafaell-lycan.com/2015/entendendo-flux/
 9. https://medium.com/@InVisionApp/minimum-viable-product-mutants-17bf27083870#.tv7tchuii
+10. https://medium.com/@josepapo/como-entrevistar-e-contratar-profissionais-para-sua-equipe-no-estilo-google-e-amazon-ed17e26d0303#.x3sfzevoc
+11. http://www.businessinsider.com/google-laszlo-bock-interview-questions-2015-4
 
 
 -------------------
