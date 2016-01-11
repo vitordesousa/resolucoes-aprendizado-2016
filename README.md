@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 240 artigos (8/240)
+## Ler 240 artigos (9/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -34,6 +34,7 @@
 6. https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.hzdjlg99c
 7. https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.1eg1fg3ag
 8. http://rafaell-lycan.com/2015/entendendo-flux/
+9. https://medium.com/@InVisionApp/minimum-viable-product-mutants-17bf27083870#.tv7tchuii
 
 
 -------------------
