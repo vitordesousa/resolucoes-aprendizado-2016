@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 240 artigos (13/240)
+## Ler 240 artigos (14/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -39,6 +39,7 @@
 11. http://www.businessinsider.com/google-laszlo-bock-interview-questions-2015-4
 12. https://medium.com/@josepapo/li%C3%A7%C3%B5es-do-google-amazon-e-microsoft-para-cria%C3%A7%C3%A3o-de-culturas-organizacionais-de-alto-impacto-bdaa5f5c4896#.n512tj6gj
 13. http://jcemer.com/o-estado-do-desenvolvimento-front-end.html
+14. http://www.administradores.com.br/artigos/carreira/voce-planejou-sua-carreira-ou-apenas-seguiu-trabalhando-esperando-que-algo-acontecesse/91979/
 
 
 -------------------
