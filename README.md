@@ -40,6 +40,7 @@
 12. https://medium.com/@josepapo/li%C3%A7%C3%B5es-do-google-amazon-e-microsoft-para-cria%C3%A7%C3%A3o-de-culturas-organizacionais-de-alto-impacto-bdaa5f5c4896#.n512tj6gj
 13. http://jcemer.com/o-estado-do-desenvolvimento-front-end.html
 14. http://www.administradores.com.br/artigos/carreira/voce-planejou-sua-carreira-ou-apenas-seguiu-trabalhando-esperando-que-algo-acontecesse/91979/
+15. https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.302s6nlbv
 
 
 -------------------
