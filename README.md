@@ -27,7 +27,7 @@
 -------------------
 
 
-## Ler 240 artigos (21/240)
+## Ler 240 artigos (22/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -50,6 +50,7 @@
 19. http://sandroalves.com/metanegocio/
 20. https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe#.siqbelcjk
 21. http://www.istoedinheiro.com.br/noticias/negocios/20160122/como-sera-trabalho-futuro/336501
+22. https://medium.com/@gutanaka/hora-de-aceitar-que-o-capitalismo-n%C3%A3o-deu-certo-ce0ab6125049#.9prxa9pt3
 
 
 -------------------
