@@ -24,7 +24,7 @@
 -------------------
 
 
-## Ler 240 artigos (18/240)
+## Ler 240 artigos (19/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -44,6 +44,7 @@
 16. https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798#.6kzpckegp
 17. https://medium.com/keep-learning-keep-growing/5-simple-ux-principles-to-guide-your-product-design-ce760854ff1d#.p7r3z87jg
 18. http://sandroalves.com/sobre/
+19. http://sandroalves.com/metanegocio/
 
 
 -------------------
