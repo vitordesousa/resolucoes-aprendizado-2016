@@ -63,13 +63,14 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (5/24)
+## Ver 24 palestras no youtube (6/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
 3. https://www.youtube.com/watch?v=U23d3BNac9w&list=FLZpGiCG3uG1s8rm00Tw9u5A
 4. https://www.youtube.com/watch?v=yG66ZKD_3Fg
 5. https://www.youtube.com/watch?v=WjWeJbOVYP8
+6. https://www.youtube.com/watch?v=sf-8dB_3jcM
 
 -------------------
 
