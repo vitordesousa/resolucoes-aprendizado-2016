@@ -27,7 +27,7 @@
 -------------------
 
 
-## Ler 240 artigos (24/240)
+## Ler 240 artigos (25/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -53,6 +53,7 @@
 22. https://medium.com/@gutanaka/hora-de-aceitar-que-o-capitalismo-n%C3%A3o-deu-certo-ce0ab6125049#.9prxa9pt3
 23. http://ramonkayo.com/conceitos-e-metodos/como-escrever-uma-proposta-unica-de-valor-uvp
 24. https://www.linkedin.com/pulse/cinco-maneiras-de-matar-os-seus-sonhos-bel-pesce?trk=hp-feed-article-title-ppl-follow
+25. https://medium.com/@pauloblob/por-que-reclamamos-tanto-dos-palestrantes-de-empreendedorismo-motivacional-4d8535f4df0a#.28mhwbmv5
 
 
 -------------------
