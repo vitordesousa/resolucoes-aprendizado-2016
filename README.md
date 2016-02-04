@@ -66,7 +66,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (14/24)
+## Ver 24 palestras no youtube (15/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -82,6 +82,7 @@
 12. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=228
 13. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=229
 14. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=230
+15. https://meusucesso.com/conhecimento/cursar/to-the-point-12/?aula=59
 
 -------------------
 
