@@ -66,7 +66,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (7/24)
+## Ver 24 palestras no youtube (14/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -75,6 +75,13 @@
 5. https://www.youtube.com/watch?v=WjWeJbOVYP8
 6. https://www.youtube.com/watch?v=sf-8dB_3jcM
 7. https://www.youtube.com/watch?v=OobAIl4vsUw
+8. https://meusucesso.com/conhecimento/cursar/insight-lite-19/?aula=179
+9. https://meusucesso.com/conhecimento/cursar/insight-lite-19/?aula=157
+10. https://meusucesso.com/conhecimento/cursar/insight-lite-19/?aula=186
+11. https://meusucesso.com/conhecimento/cursar/insight-lite-19/?aula=118
+12. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=228
+13. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=229
+14. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=230
 
 -------------------
 
