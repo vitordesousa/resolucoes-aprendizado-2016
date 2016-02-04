@@ -67,7 +67,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (17/24)
+## Ver 24 palestras no youtube (18/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -86,6 +86,7 @@
 15. https://meusucesso.com/conhecimento/cursar/to-the-point-12/?aula=59
 16. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=209
 17. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=220
+18. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=146
 
 -------------------
 
