@@ -27,7 +27,7 @@
 -------------------
 
 
-## Ler 240 artigos (27/240)
+## Ler 240 artigos (28/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -56,6 +56,7 @@
 25. https://medium.com/@pauloblob/por-que-reclamamos-tanto-dos-palestrantes-de-empreendedorismo-motivacional-4d8535f4df0a#.28mhwbmv5
 26. http://gabsferreira.com/amigos-programadores-parem-de-reclamar/
 27. https://medium.com/@carvalho.icaro/porque-a-ind%C3%BAstria-do-empreendedorismo-de-palco-ir%C3%A1-destruir-voc%C3%AA-3e18309ab47f#.7h9fget20
+28. https://endeavor.org.br/mvp/
 
 
 -------------------
