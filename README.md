@@ -68,7 +68,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (18/24)
+## Ver 24 palestras no youtube (19/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -88,6 +88,7 @@
 16. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=209
 17. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=220
 18. https://meusucesso.com/conhecimento/cursar/live-class-14/?aula=146
+19. https://www.youtube.com/watch?v=gqXF4EB9zCY
 
 -------------------
 
