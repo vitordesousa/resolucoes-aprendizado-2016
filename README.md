@@ -27,7 +27,7 @@
 -------------------
 
 
-## Ler 240 artigos (30/240)
+## Ler 240 artigos (31/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -59,6 +59,7 @@
 28. https://endeavor.org.br/mvp/
 29. http://startse.infomoney.com.br/curso/ebook-az/ebook_startse_aprenda_a_validar_sua_ideia.pdf
 30. https://endeavor.org.br/historia-empreendedora-maristela-mafei-maquina-cohn-wolfe/
+31. https://medium.com/@arddhu/a-morte-do-hyperlink-consequ%C3%AAncias-39cb30d7364e#.tkwdd2zgd
 
 
 -------------------
