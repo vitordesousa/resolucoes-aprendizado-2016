@@ -27,7 +27,7 @@
 -------------------
 
 
-## Ler 240 artigos (34/240)
+## Ler 240 artigos (35/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -63,6 +63,7 @@
 32. https://medium.com/design-contaazul/simplificar-ajuda-sempre-ea17d5feb92a#.4i0b90wi2
 33. https://medium.com/design-contaazul/novo-padr%C3%A3o-de-ilustra%C3%A7%C3%A3o-contaazul-5ad33bb79401#.n3dky245d
 34. https://medium.com/design-contaazul/o-que-aprendi-em-5-anos-como-ux-designer-70d5d02c2c94#.jnu0uoy5r
+35. http://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/
 
 
 -------------------
@@ -74,7 +75,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (21/24)
+## Ver 24 palestras no youtube (27/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -97,6 +98,13 @@
 19. https://www.youtube.com/watch?v=gqXF4EB9zCY
 20. https://meusucesso.com/conhecimento/cursar/insight-lite-19/?aula=71
 21. https://meusucesso.com/conhecimento/cursar/to-the-point-12/?aula=226
+22. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=130
+23. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=131
+24. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=132
+25. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=133
+26. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=134
+27. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=135
+
 
 -------------------
 
