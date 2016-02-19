@@ -28,7 +28,7 @@
 -------------------
 
 
-## Ler 240 artigos (35/240)
+## Ler 240 artigos (42/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -65,6 +65,13 @@
 33. https://medium.com/design-contaazul/novo-padr%C3%A3o-de-ilustra%C3%A7%C3%A3o-contaazul-5ad33bb79401#.n3dky245d
 34. https://medium.com/design-contaazul/o-que-aprendi-em-5-anos-como-ux-designer-70d5d02c2c94#.jnu0uoy5r
 35. http://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/
+36. https://www.linkedin.com/pulse/o-mundo-%C3%A9-das-pessoas-determinadas-abilio-diniz?trk=eml-b2_content_ecosystem_digest-recommended_articles-45-null&midToken=AQGnRtWYSRRx9g&fromEmail=fromEmail&ut=2_Y1nNGltlg781
+37. https://endeavor.org.br/pnl/
+38. https://endeavor.org.br/empreendedores-artistas-inovacao-pixar/
+39. https://medium.com/@eduardocarmello/a-tristeza-que-d%C3%A1-nos-funcion%C3%A1rios-de-uma-organiza%C3%A7%C3%A3o-ao-ver-talentos-inteligentes-e-%C3%A9ticos-indo-ce0ba36ffb04#.obrx0990f
+40. http://blog.caelum.com.br/kanban-dentro-de-ux/
+41. http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/
+42. http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/
 
 
 -------------------
