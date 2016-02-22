@@ -10,23 +10,22 @@
 -------------------
 
 
-## Ler 2 Livros sobre design (0/2)
+## Ler 1 Livro sobre design (0/1)
 
 -------------------
 
-## Ler 2 Livros sobre UX (0/2)
+## Ler 1 Livro sobre UX (0/1)
 
 -------------------
 
-## Ler 3 Livros sobre business (0/3)
+## Ler 2 Livros sobre business (0/2)
 
 -------------------
 
 
-## Ler 2 Livros sobre desenvolvimento (0/2)
+## Ler 1 Livro sobre desenvolvimento (0/1)
 
 -------------------
-
 
 ## Ler 240 artigos (42/240)
 
@@ -83,7 +82,7 @@
 
 -------------------
 
-## Ver 24 palestras no youtube (27/24)
+## Ver 24 palestras online (27/24)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -117,7 +116,9 @@
 -------------------
 
 
-## Participar de um evento de computação (0/1)
+## Participar de um evento de computação (1/1)
+
+1. GDG Tour Salvador #1
 
 -------------------
 
