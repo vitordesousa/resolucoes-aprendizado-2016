@@ -27,7 +27,7 @@
 
 -------------------
 
-## Ler 240 artigos (42/240)
+## Ler 240 artigos (43/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -71,6 +71,7 @@
 40. http://blog.caelum.com.br/kanban-dentro-de-ux/
 41. http://natalia.blog.br/2016/02/17/21-dias-desafio-tecnica-pomodoro/
 42. http://lucasmaiaesilva.com.br/repensando-layouts-com-flexbox/
+43. http://papodehomem.com.br/como-esculpir-um-novo-habito?utm_content=buffer43e87&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 
 -------------------
@@ -116,7 +117,7 @@
 -------------------
 
 
-## Participar de um evento de computação (1/1)
+## Participar de 3 evento de computação (1/3)
 
 1. GDG Tour Salvador #1
 
