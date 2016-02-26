@@ -25,6 +25,12 @@
 
 ## Ler 1 Livro sobre desenvolvimento (0/1)
 
+## Melhorar os conhecimentos de CSS
+
+ 1. https://github.com/frontendbr/forum/issues/35
+ 2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ 3. https://github.com/afonsopacifer/awesome-flexbox
+
 -------------------
 
 ## Ler 240 artigos (43/240)
