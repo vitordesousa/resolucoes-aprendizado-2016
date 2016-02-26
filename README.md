@@ -89,7 +89,7 @@
 
 -------------------
 
-## Ver 24 palestras online (28/50)
+## Ver 50 palestras online (28/50)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
