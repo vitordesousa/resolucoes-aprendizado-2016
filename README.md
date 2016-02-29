@@ -10,7 +10,7 @@
 -------------------
 
 
-## Ler 1 Livro sobre design (0/1)
+## Ler 1 Livro sobre design (0/1)e
 
 -------------------
 
@@ -125,7 +125,7 @@
 -------------------
 
 
-## Participar de 3 evento de computação (1/3)
+## Participar de 3 eventos de computação (1/3)
 
 1. GDG Tour Salvador #1
 
