@@ -83,9 +83,10 @@
 -------------------
 
 
-## Escrever 12 artigos (1/12)
+## Escrever 12 artigos (2/12)
 
 1. https://medium.com/@cbfranca/metas-de-estudo-para-2016-92caa5e4e6ad#.q9meadsfo
+2. https://medium.com/@cbfranca/o-que-o-mercado-espera-de-voc%C3%AA-5e139696e7a1
 
 -------------------
 
