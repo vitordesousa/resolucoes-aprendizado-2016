@@ -92,7 +92,7 @@
 
 -------------------
 
-## Ver 50 palestras online (29/50)
+## Ver 50 palestras online (31/50)
 
 1. https://www.youtube.com/watch?v=TcR5FrEEuCU
 2. https://www.youtube.com/watch?v=rIGsgWifmvk
@@ -123,6 +123,8 @@
 27. https://meusucesso.com/conhecimento/cursar/caito-maia-24/?aula=135
 28. https://meusucesso.com/conhecimento/cursar/estudo-de-caso-thai-quang-nghia-31/?aula=233
 29. https://www.youtube.com/watch?v=7WgEuNZCCHk
+30. https://www.youtube.com/watch?v=ybVkNRdb6hE
+31. https://www.youtube.com/watch?v=LX7hczyn9UU#t=1208.558
 
 
 -------------------
