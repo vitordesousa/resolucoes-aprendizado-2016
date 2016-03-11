@@ -33,7 +33,7 @@
 
 -------------------
 
-## Ler 240 artigos (45/240)
+## Ler 240 artigos (46/240)
 
 1. https://medium.com/interactive-mind/the-only-ux-reading-list-ever-d420edb3f4ff#.tgrgq2qeb
 2. http://www.uxdesign.blog.br/design-de-interfaces/oito-regras-de-ouro/
@@ -80,6 +80,7 @@
 43. http://papodehomem.com.br/como-esculpir-um-novo-habito
 44. http://arquiteturadeinformacao.com/series/arsenal-de-ferramentas-de-ux/o-arsenal-de-ferramentas-de-ux-do-guilherme-marques/
 45. https://www.linkedin.com/pulse/10-coisas-que-aprendi-trabalhando-com-ux-guilherme-marques-coelho
+46. http://www.undefinednull.com/2014/06/26/explaining-call-and-apply-in-javascript-through-mr-dot-dave/
 
 
 -------------------
